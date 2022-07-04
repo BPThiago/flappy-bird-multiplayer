@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ccc;
+}
+
+canvas {
+    border: 1px solid #777;
+    display: block;
+}
+
+#user-count,
+#player-count {
+    color: #048d02;
+    font-size: 18px;
+    font-family: 'monospace';
+    font-weight: 300;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
