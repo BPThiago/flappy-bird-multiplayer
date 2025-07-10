@@ -1,6 +1,6 @@
 # Flappy Bird Multiplayer
 
-Olá :clap:!
+Olá :wave:!
 
 Este é um projeto simples criado com o objetivo de aplicar o Socket.io em um contexto real, isto é, além de sua documentação.
 
